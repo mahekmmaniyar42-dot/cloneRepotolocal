@@ -1,2 +1,2 @@
 # cloneRepotolocal
-this repo willbe cloned in local system
+this repo will be cloned in local system
